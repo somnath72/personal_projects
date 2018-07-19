@@ -1,0 +1,2 @@
+C:\D_Drive\Training\PluralSight\*.sql
+C:\temp\*.txt
